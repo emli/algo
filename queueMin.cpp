@@ -1,3 +1,6 @@
+/*
+Modifying queue for finding the minimum in O (1) with 2 stacks.
+*/
 #include <cstdio>
 #include <string>
 #include <stack>
