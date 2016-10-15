@@ -1,3 +1,4 @@
+//http://abc046.contest.atcoder.jp/tasks/abc046_b
 #include<iostream>
 #include<cstdio>
 #include<cassert>
