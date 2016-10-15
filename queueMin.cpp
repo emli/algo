@@ -1,3 +1,7 @@
+/*
+Modifying queue for finding the minimum in O (1) with 2 stacks.
+Read more. http://e-maxx.ru/algo/stacks_for_minima
+*/
 #include <cstdio>
 #include <string>
 #include <stack>
